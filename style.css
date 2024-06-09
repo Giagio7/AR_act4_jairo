@@ -1,0 +1,17 @@
+/* Estilos personalizados */
+
+/* Hacer que el contenido principal esté centrado verticalmente */
+.jumbotron {
+    margin-top: 50px;
+  }
+  
+  /* Footer fijo en la parte inferior */
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
